@@ -8,4 +8,4 @@ let b = 'name';
 // obj[b] = 'Uyen';
 obj.name = 'Hung';
 console.log (`Xuất giá trị name trong Object là ${obj['name']}`);
-console.log (`Giá trị của b là ${b}`);
+console.log (`Giá trị của b là ${b}`); 
