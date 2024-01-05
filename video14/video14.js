@@ -25,4 +25,4 @@ switch (new Date().getDay()) {
       day = "Saturday";
 }
 
-console.log(`Check day: `,day)
+console.log(`Check day: `,day, new Date().getDate())
